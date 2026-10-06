@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5b3a29"/><stop offset="1" stop-color="#071a33"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/>
+<circle cx="930" cy="165" r="92" fill="#e0b15a" opacity=".85"/><circle cx="930" cy="165" r="155" fill="#e0b15a" opacity=".12"/>
+<path d="M0 440 L150 350 L260 430 L390 300 L530 430 L670 330 L810 440 L960 310 L1200 450 V720 H0Z" fill="#e0b15a" opacity=".30"/>
+<path d="M0 500 Q220 430 440 510 T900 490 T1200 510 V720 H0Z" fill="#06172e" opacity=".9"/>
+<g fill="#e0b15a"><path d="M120 460 L180 320 L240 460Z"/><rect x="160" y="400" width="40" height="70"/><path d="M285 465 L285 365 Q350 300 415 365 L415 465Z"/><path d="M305 365 L305 325 L330 350 L350 315 L370 350 L395 325 L395 365Z"/></g>
+<rect x="60" y="565" width="1080" height="2" fill="#e0b15a" opacity=".45"/>
+<text x="60" y="625" fill="white" font-family="Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="3">MYSORE PALACE</text>
+<text x="62" y="662" fill="#e0b15a" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">TRIPSPHERE DESTINATION • MYSURU, KARNATAKA</text>
+</svg>
